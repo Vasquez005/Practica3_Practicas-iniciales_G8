@@ -1,3 +1,6 @@
+# Prácticas Iniciales
+
+```python
 class PracticasIniciales:
     def __init__(self):
         print("=============================================")
